@@ -53,8 +53,8 @@ python -m src.scoring.score_rest
 
 ### 5) Run API
 Open:
-https://strsearch.onrender.com/
 
+https://strsearch.onrender.com/
 ### 6) Run Dashboard (bonus)
 ```bash
 https://assessment-str.onrender.com
