@@ -52,9 +52,6 @@ python -m src.scoring.score_rest
 ```
 
 ### 5) Run API
-```bash
-uvicorn src.api.main:app --reload --port 8000
-```
 Open:
 https://strsearch.onrender.com/
 
@@ -62,7 +59,6 @@ https://strsearch.onrender.com/
 ```bash
 https://assessment-str.onrender.com
 ```
-
 ## Deliverables
 - SQL optimization query + EXPLAIN ANALYZE: `sql/sql_optimization.sql`
 - Schema decisions: `SCHEMA_DECISIONS.md`
@@ -73,6 +69,3 @@ https://assessment-str.onrender.com
 https://strsearch.onrender.com/
 ### VIDEO LINK
 https://youtu.be/DFjJSuy5LzM
-
-## Video walkthrough
-- VIDEO: <PASTE_LINK_HERE>
