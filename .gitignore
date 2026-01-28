@@ -1,0 +1,19 @@
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+ENV/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+
+# Data: keep cleaned outputs, ignore raw by default
+data/*.csv
+data/raw/
+!data/README.md
+!data/clean/
+!data/clean/*.csv
