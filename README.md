@@ -56,11 +56,11 @@ python -m src.scoring.score_rest
 uvicorn src.api.main:app --reload --port 8000
 ```
 Open:
-- http://127.0.0.1:8000/docs
+https://strsearch.onrender.com/
 
 ### 6) Run Dashboard (bonus)
 ```bash
-streamlit run src/dashboard/app.py
+https://assessment-str.onrender.com
 ```
 
 ## Deliverables
@@ -71,7 +71,8 @@ streamlit run src/dashboard/app.py
 ### Dashboard
 https://assessment-str.onrender.com
 https://strsearch.onrender.com/
-
+### VIDEO LINK
+https://youtu.be/DFjJSuy5LzM
 
 ## Video walkthrough
 - VIDEO: <PASTE_LINK_HERE>
