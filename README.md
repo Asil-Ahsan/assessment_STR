@@ -68,5 +68,10 @@ streamlit run src/dashboard/app.py
 - Schema decisions: `SCHEMA_DECISIONS.md`
 - Scoring logic: `SCORING_LOGIC.md`
 
+### Dashboard
+https://assessment-str.onrender.com
+https://strsearch.onrender.com/
+
+
 ## Video walkthrough
 - VIDEO: <PASTE_LINK_HERE>
